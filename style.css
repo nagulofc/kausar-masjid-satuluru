@@ -13,7 +13,8 @@ button{
     padding: 15px 30px;
     border: 1px solid #FA8900;
     background-color: #FA8900;
-    color: rgb(0, 0, 0);
+    color: white;
+    font-weight: bold;
     border-radius: 45px;
     font-size: large;
     box-shadow: 7px 9px 20px -9px rgb(255, 228, 178);
